@@ -7,3 +7,4 @@ This program is for opening, tagging and searching images.
 - database
 - search
 - suggestions
+- scroll through images in folder
